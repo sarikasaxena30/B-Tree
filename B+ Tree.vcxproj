@@ -133,7 +133,6 @@
     <ClCompile Include="..\..\..\..\..\Downloads\B-Plus-Tree-master\B-Plus-Tree-master\remove.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\B-Plus-Tree-master\B-Plus-Tree-master\search.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\B-Plus-Tree-master\B-Plus-Tree-master\utilFunc.cpp" />
-    <ClCompile Include="B+ Tree.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\..\..\Downloads\B-Plus-Tree-master\B-Plus-Tree-master\.gitignore" />

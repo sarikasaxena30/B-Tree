@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="B+ Tree.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\..\..\..\Downloads\B-Plus-Tree-master\B-Plus-Tree-master\B+ Tree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
